@@ -1,0 +1,29 @@
+/* Quality of Experience */
+"Quality of Experience" = "Quality of Experience";
+
+/* Please provide why you feel that way */
+"Please provide why you feel that way" = "Legg igjen en kommentar hvis du ønsker";
+
+/* Please rate your experience with the feature you just used: */
+"Please rate your experience with the feature you just used:" = "Hvor bra synes du at funksjonaliteten du nettopp har brukt fungerte?";
+
+/* Excellent */
+"Excellent" = "Meget bra";
+
+/* Good */
+"Good" = "Ganske bra";
+
+/* Fair */
+"Fair" = "Bra";
+
+/* Poor */
+"Poor" = "Ganske dårlig";
+
+/* Bad */
+"Bad" = "Meget dårlig";
+
+/* Cancel */
+"Cancel" = "Avbryt";
+
+/* Submit */
+"Submit" = "Send inn";

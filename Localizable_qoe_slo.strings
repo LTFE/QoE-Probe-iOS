@@ -1,0 +1,29 @@
+/* Quality of Experience */
+"Quality of Experience" = "Kvaliteta izkušnje";
+
+/* Please provide why you feel that way */
+"Please provide why you feel that way" = "Prosimo vnesite komentar";
+
+/* Please rate your experience with the feature you just used: */
+"Please rate your experience with the feature you just used:" = "Prosimo ocenite to funkcionalnost:";
+
+/* Excellent */
+"Excellent" = "Odlično";
+
+/* Good */
+"Good" = "Dobro";
+
+/* Fair */
+"Fair" = "Tako tako";
+
+/* Poor */
+"Poor" = "Slabo";
+
+/* Bad */
+"Bad" = "Zelo slabo";
+
+/* Cancel */
+"Cancel" = "Prekliči";
+
+/* Submit */
+"Submit" = "Pošlji";
